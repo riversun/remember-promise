@@ -1,0 +1,22 @@
+{
+  "name": "@riversun/remember-promise",
+  "version": "1.0.0",
+  "description": "Library template for both node and browser using ES6,Webpack,Babel,Jest,ESLint",
+  "main": "",
+  "scripts": {
+    "start": "node ./src/chapter6_1_run_sequential_w_promise.js"
+  },
+  "author": "Tom Misawa <riversun.org@gmail.com> (https://github.com/riversun)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riversun/remember-promise.git"
+  },
+  "bugs": {
+    "url": "https://github.com/riversun/remember-promise/issues"
+  },
+  "homepage": "https://github.com/riversun/remember-promise#readme",
+  "devDependencies": {
+  },
+  "dependencies": {}
+}
